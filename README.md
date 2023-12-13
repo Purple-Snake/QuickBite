@@ -1,5 +1,4 @@
-# Food-ordering-application
-
+# QuickBite
 
 1. Download The project
 
